@@ -10,6 +10,7 @@ The repository provides code for the fine-tuning process of the MedSAM Model (Se
 **<br>MedSAM model in Hugging Face:** https://huggingface.co/flaviagiammarino/medsam-vit-base
 
 **Link to the dataset used in this process:** https://drive.google.com/file/d/1m7tMpE9qEcQGQjL_BdMD-Mvgmc44hG1Y/view?usp=drive_link
+
 **Data description**
 Image type: 3D (CT Images); Format: NifTI (.nii.gz)
 >Height: 512px; Width: 512px; Depth: not fixed
